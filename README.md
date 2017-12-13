@@ -7,3 +7,6 @@ repository practice
 master branchのままで修正したらどうなるのかな？
 自分がOWNERならそのままcommit mergeしてしまうようだ。
 自動でbranch作る方法を試してみる。
+
+Visual Studio Code
+これで編集してみますが。どうなるのでしょうか？
