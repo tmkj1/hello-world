@@ -10,3 +10,5 @@ master branchのままで修正したらどうなるのかな？
 
 Visual Studio Code
 これで編集してみますが。どうなるのでしょうか？
+
+Visual Studio Codeからブランチ作れるの？
